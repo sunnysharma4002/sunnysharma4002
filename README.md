@@ -7,7 +7,7 @@
 Building tools for reverse engineering, security research, automation, and backend systems.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sunnysharma4002l&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sunnysharma4002&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 </div>
@@ -96,11 +96,11 @@ Security Research     █████████████    85%
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sunnysharma4002l&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=sunnysharma4002&show_icons=true&theme=github_dark)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysharma4002l&layout=compact&theme=github_dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysharma4002&layout=compact&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com?user=sunnysharma4002l&theme=github-dark)
+![Streak](https://streak-stats.demolab.com?user=sunnysharma4002&theme=github-dark)
 
 </div>
 

@@ -4,11 +4,16 @@
 
 ### Software Engineer • Reverse Engineer • API Developer
 
-Building tools for reverse engineering, security research, automation, and backend systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Reverse+Engineer;API+Developer;Android+Researcher;Building+Tools+That+Matter" />
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=sunnysharma4002&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+[![GitHub followers](https://img.shields.io/github/followers/sunnysharma4002?label=Followers&style=social)](https://github.com/sunnysharma4002)
+[![GitHub Stars](https://img.shields.io/github/stars/sunnysharma4002?affiliations=OWNER&style=social)](https://github.com/sunnysharma4002)
 
 </div>
 
@@ -16,20 +21,39 @@ Building tools for reverse engineering, security research, automation, and backe
 
 ## 🚀 About Me
 
-I'm a software engineer passionate about:
+I'm a passionate software engineer focused on building powerful tools, APIs, automation systems, and reverse engineering utilities.
+
+### What I Work On
 
 - 🔍 Reverse Engineering & Binary Analysis
 - 🎮 Unreal Engine Research & Tooling
-- 🛠️ Backend & API Development
-- 📱 Android Internals & Native Development
+- 📱 Android Native Development
 - 🔐 Security Research & Software Protection
 - ⚡ Automation & Developer Utilities
+- 🌐 Backend APIs & Infrastructure
+- 🤖 AI-Powered Applications
 
-I enjoy understanding how systems work internally and building tools that simplify complex workflows.
+I enjoy understanding complex systems and creating tools that help developers, researchers, and enthusiasts work more efficiently.
 
 ---
 
-## 🛠️ Technologies
+## 🔥 Latest Projects
+
+### 🤖 Digen-api
+AI-powered image generation API with modern REST architecture, scalable deployment, and developer-friendly integrations.
+
+### 🚀 OpenCodeAgent
+AI coding assistant designed to automate workflows, generate code, and improve developer productivity.
+
+### 🔐 LicenseCore
+Secure PHP-based license authentication and software licensing platform.
+
+### 🎮 UE4-Mobile-Dumper
+Android-focused Unreal Engine research and analysis toolkit.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -38,44 +62,54 @@ I enjoy understanding how systems work internally and building tools that simpli
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Platforms
+### Platforms & Technologies
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🎮 Unreal Engine Tools
+### 🤖 AI & Developer Tools
 
 | Project | Description |
 |----------|------------|
-| UE4-Dumper | Unreal Engine offset and SDK dumper |
-| UE4-Mobile-Dumper | Android UE analysis framework |
-| AndUEDumper | Unreal Engine mobile research toolkit |
-| UE4DUMPER | Advanced dumping utilities |
+| **Digen-api** | AI image generation API platform |
+| **OpenCodeAgent** | AI-powered coding assistant and automation framework |
 
-### 🎵 Media & API Development
+### 🎮 Unreal Engine Research
 
 | Project | Description |
 |----------|------------|
-| jiosaavn-api | TypeScript music streaming API |
-| Soundfy | Streaming extraction utility |
-| m3u-generator | Playlist generation tool |
-| abplive-M3u8-Extractor | M3U8 extraction utility |
+| **UE4-Dumper** | Unreal Engine offset and SDK dumper |
+| **UE4-Mobile-Dumper** | Android Unreal Engine analysis framework |
+| **AndUEDumper** | Mobile Unreal Engine research toolkit |
+| **UE4DUMPER** | Advanced Unreal Engine dumping utilities |
 
-### 🔐 Security Research
+### 🎵 Media & Streaming APIs
 
 | Project | Description |
 |----------|------------|
-| AndKittyInjector | Android ptrace injection framework |
-| LicenseCore | PHP licensing backend |
-| Osint-api | OSINT aggregation API |
-| Simply | Software unpacking research project |
+| **jiosaavn-api** | TypeScript music streaming API |
+| **Soundfy** | Streaming extraction utility |
+| **m3u-generator** | Playlist generation tool |
+| **abplive-M3u8-Extractor** | M3U8 extraction utility |
+
+### 🛠️ Backend & Infrastructure
+
+| Project | Description |
+|----------|------------|
+| **LicenseCore** | License authentication platform |
+| **Osint-api** | OSINT aggregation API |
+| **database-dump-php** | Database export utility |
+| **terabox-python** | Terabox downloader library |
 
 ---
 
@@ -88,6 +122,7 @@ Android Internals     ██████████████   88%
 API Development       ██████████████   88%
 Python Automation     █████████████    85%
 Security Research     █████████████    85%
+AI Development        ████████████     80%
 ```
 
 ---
@@ -96,11 +131,21 @@ Security Research     █████████████    85%
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sunnysharma4002&show_icons=true&theme=github_dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnysharma4002&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysharma4002&layout=compact&theme=github_dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysharma4002&layout=compact&theme=github_dark&hide_border=true"/>
 
-![Streak](https://streak-stats.demolab.com?user=sunnysharma4002&theme=github-dark)
+<img src="https://streak-stats.demolab.com?user=sunnysharma4002&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sunnysharma4002&theme=darkhub&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -110,28 +155,44 @@ Security Research     █████████████    85%
 
 - Advanced Android Native Security
 - ARM64 Reverse Engineering
-- Malware Analysis Techniques
+- AI Agent Development
 - Cloud Infrastructure & DevOps
+- Malware Analysis Techniques
 - Software Protection Mechanisms
+- Large Language Model Integration
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Open for Collaboration
 
-Interested in:
+I'm interested in collaborating on:
 
 - Reverse Engineering Research
+- Android Development
+- AI Applications & Agents
+- Open Source Projects
 - Unreal Engine Tooling
-- Open Source Development
-- Security Projects
-- Backend APIs
+- Security Research
+- Backend API Systems
+
+---
+
+## 📫 Connect
+
+- 💻 GitHub: https://github.com/sunnysharma4002
+- 🚀 Open Source Contributor
+- 🤝 Available for Collaboration
 
 ---
 
 <div align="center">
 
-### 💡 "Understanding systems deeply is the first step to building better ones."
+## 💡 Philosophy
 
-⭐ If you find my projects useful, consider starring them.
+### "Understanding systems deeply is the first step to building better ones."
+
+Passionate about building tools that solve real-world problems and help developers push boundaries.
+
+⭐ If you find my projects useful, consider starring the repositories and following my work.
 
 </div>

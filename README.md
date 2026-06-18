@@ -5,7 +5,7 @@
 ### Software Engineer • Reverse Engineer • API Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Reverse+Engineer;API+Developer;Android+Researcher;Building+Tools+That+Matter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Reverse+Engineer;API+Developer;Android+Researcher;Buildin[...]
 </p>
 
 <p>
@@ -83,6 +83,7 @@ Android-focused Unreal Engine research and analysis toolkit.
 |----------|------------|
 | **Digen-api** | AI image generation API platform |
 | **OpenCodeAgent** | AI-powered coding assistant and automation framework |
+| **Elyxar-AI** | Advanced AI-powered application platform |
 
 ### 🎮 Unreal Engine Research
 
@@ -107,6 +108,7 @@ Android-focused Unreal Engine research and analysis toolkit.
 | Project | Description |
 |----------|------------|
 | **LicenseCore** | License authentication platform |
+| **Keyauth-Sellerapi_Management** | License/authentication seller API management system |
 | **Osint-api** | OSINT aggregation API |
 | **database-dump-php** | Database export utility |
 | **terabox-python** | Terabox downloader library |

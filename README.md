@@ -53,8 +53,8 @@ I enjoy working close to the system — from backend APIs and databases to nativ
 |---------|-------------|----------|
 | **[Digen-api](https://github.com/sunnysharma4002/Digen-api)** | AI-powered image generation API | HTML |
 | **[OpenCodeAgent](https://github.com/sunnysharma4002/OpenCodeAgent)** | AI coding assistant and automation project | TypeScript |
-| **[Elyxar-AI](https://github.com/sunnysharma4002/Elyxar-AI)** | AI-powered web chat platform with authentication, chat history and API integration | PHP |
-| **[theoldllm-api](https://github.com/sunnysharma4002/theoldllm-api)** | Python API/client wrapper for multiple AI models | Python |
+| **[Elyxar-AI](https://github.com/sunnysharma4002/Elyxar-AI)** | AI-powered web chat platform with user authentication, Google login, chat history, API integration and an admin panel | PHP |
+| **[theoldllm-api](https://github.com/sunnysharma4002/theoldllm-api)** | Unofficial Python client and API wrapper for multiple AI models, with streaming responses and model selection | Python |
 
 ---
 
@@ -62,7 +62,7 @@ I enjoy working close to the system — from backend APIs and databases to nativ
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| **[DISCORD-MUSIC_BOT](https://github.com/sunnysharma4002/DISCORD-MUSIC_BOT)** | Discord.js v14 music bot with YouTube/Spotify support, queues and playback controls | JavaScript |
+| **[Hexloop-Music_bot](https://github.com/sunnysharma4002/Hexloop-Music_bot)** | Modular Discord.js v14 music bot with YouTube/Spotify support, slash commands, per-server queues, looping and playback controls | JavaScript |
 | **[Discord-Point_BOT](https://github.com/sunnysharma4002/Discord-Point_BOT)** | Discord points, rewards and leaderboard system | JavaScript |
 | **[Instagram_downloader_bot](https://github.com/sunnysharma4002/Instagram_downloader_bot)** | Telegram bot for downloading Instagram posts, reels and videos | Python |
 
@@ -72,13 +72,12 @@ I enjoy working close to the system — from backend APIs and databases to nativ
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| **[UE4DUMPER](https://github.com/sunnysharma4002/UE4DUMPER)** | Unreal Engine dumping and analysis toolkit | C++ |
-| **[UE4-Dumper](https://github.com/sunnysharma4002/UE4-Dumper)** | Unreal Engine offsets and function research | C++ |
-| **[UE4-Mobile-Dumper](https://github.com/sunnysharma4002/UE4-Mobile-Dumper)** | Android Unreal Engine analysis and dumping toolkit | C++ |
-| **[AndUEDumper](https://github.com/sunnysharma4002/AndUEDumper)** | Android Unreal Engine dumper | C++ |
-| **[AndKittyInjector](https://github.com/sunnysharma4002/AndKittyInjector)** | Android native shared-library injection research | C++ |
-| **[internal-sdk-txt-extractor](https://github.com/sunnysharma4002/internal-sdk-txt-extractor)** | Utility for processing and extracting readable SDK/source data | C++ |
-| **[EXE-UNPACKER](https://github.com/sunnysharma4002/EXE-UNPACKER)** | Executable unpacking/research utility | Python |
+| **[UE4-Mobile-Dumper](https://github.com/sunnysharma4002/UE4-Mobile-Dumper)** | Dump offsets and functions for Android games built on Unreal Engine *(fork)* | C++ |
+| **[AndUEDumper](https://github.com/sunnysharma4002/AndUEDumper)** | Android Unreal Engine dumper tool *(fork)* | C++ |
+| **[MobileDumper-7](https://github.com/sunnysharma4002/MobileDumper-7)** | Mobile Unreal Engine dumper *(fork)* | C++ |
+| **[internal-sdk-txt-extractor](https://github.com/sunnysharma4002/internal-sdk-txt-extractor)** | Lightweight utility for extracting and processing SDK/source data into readable .txt files | C++ |
+| **[Simply](https://github.com/sunnysharma4002/Simply)** | Themida 3.x unpacking research *(fork)* | C++ |
+| **[bgmi-bypass](https://github.com/sunnysharma4002/bgmi-bypass)** | C++ game utility with ImGui UI, ADB integration, memory utilities, KeyAuth authentication and Discord RPC | C++ |
 
 ---
 
@@ -86,12 +85,11 @@ I enjoy working close to the system — from backend APIs and databases to nativ
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| **[LicenseCore](https://github.com/sunnysharma4002/LicenseCore)** | License validation, authentication and application access control | PHP |
+| **[LicenseCore](https://github.com/sunnysharma4002/LicenseCore)** | License-key validation, authentication and application access control | PHP |
 | **[Keyauth-Sellerkey_checker](https://github.com/sunnysharma4002/Keyauth-Sellerkey_checker)** | KeyAuth seller-key validation utility | HTML |
 | **[Keyauth-Sellerapi_Management](https://github.com/sunnysharma4002/Keyauth-Sellerapi_Management)** | KeyAuth seller API management interface | HTML |
 | **[Seller-api_licenseauth](https://github.com/sunnysharma4002/Seller-api_licenseauth)** | License authentication system using seller APIs | PHP |
-| **[ShellCode-Updater](https://github.com/sunnysharma4002/ShellCode-Updater)** | Web utility for generating byte structures and C/C++ hexadecimal representations | HTML |
-| **[Simply](https://github.com/sunnysharma4002/Simply)** | Themida unpacking research project | C++ |
+| **[ShellCode-Updater](https://github.com/sunnysharma4002/ShellCode-Updater)** | Flask-based web tool for generating byte structures and C/C++ hexadecimal arrays from library filenames | HTML |
 
 ---
 
@@ -99,10 +97,8 @@ I enjoy working close to the system — from backend APIs and databases to nativ
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| **[jiosaavn-api](https://github.com/sunnysharma4002/jiosaavn-api)** | Unofficial JioSaavn API for songs, albums, playlists, artists, lyrics and media | TypeScript |
-| **[Osint-api](https://github.com/sunnysharma4002/Osint-api)** | OSINT aggregation API | TypeScript |
-| **[VoteSphere](https://github.com/sunnysharma4002/VoteSphere)** | Online voting platform with authentication, ballots and admin dashboard | PHP |
-| **[database-dump-php](https://github.com/sunnysharma4002/database-dump-php)** | PHP database export utility | PHP |
+| **[jiosaavn-api](https://github.com/sunnysharma4002/jiosaavn-api)** | Unofficial JioSaavn API for songs, albums, playlists, artists, lyrics, cover art and media links | TypeScript |
+| **[VoteSphere](https://github.com/sunnysharma4002/VoteSphere)** | Secure online voting system (PHP + MySQL) with voter authentication, ballots, vote monitoring and admin dashboard | PHP |
 
 ---
 
@@ -111,10 +107,8 @@ I enjoy working close to the system — from backend APIs and databases to nativ
 | Project | Description | Language |
 |---------|-------------|----------|
 | **[Soundfy](https://github.com/sunnysharma4002/Soundfy)** | Music/media extraction utility | JavaScript |
-| **[m3u-generator](https://github.com/sunnysharma4002/m3u-generator)** | M3U playlist generation utility | Python |
 | **[abplive-M3u8-Extractor](https://github.com/sunnysharma4002/abplive-M3u8-Extractor)** | M3U8 extraction utility | Python |
-| **[teraboxdownloader](https://github.com/sunnysharma4002/teraboxdownloader)** | Terabox downloader utility | JavaScript |
-| **[terabox-python](https://github.com/sunnysharma4002/terabox-python)** | Terabox automation/downloader library | Python |
+| **[Terabox-cli](https://github.com/sunnysharma4002/Terabox-cli)** | Terabox command-line tool | Python |
 
 ---
 
